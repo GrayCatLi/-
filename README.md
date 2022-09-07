@@ -6,4 +6,4 @@
 
 包含柱状图、折线图、饼形图、地图等基本数据化图形展示
 
-项目预览：https://echarts-iota.vercel.app/
+项目预览： https://graycat-li.gitee.io/echarts-data-screen.github.io
